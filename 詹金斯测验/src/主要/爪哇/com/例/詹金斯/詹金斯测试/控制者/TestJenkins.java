@@ -15,7 +15,7 @@ public class TestJenkins {
 
     @GetMapping("hello")
     public String helloJenkins() {
-        return "hello Jenkins";
+        return "sfaddasfs fsfdasdasdhello Jenkins";
     }
 
 }
