@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestJenkinsController {
     @GetMapping("hello")
     public String hello() {
-        return "hello jenkins 修改Jenkins、再次远程发布JAR";
+        return "aaa aa aa hello jenkins 修改Jenkins、再次远程发布JAR";
     }
 }
